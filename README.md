@@ -12,20 +12,19 @@ Whether working independently or collaborating in a team, I always strive to giv
 ### **Alt Season Index** 🔗 [Link](https://github.com/NicastroMassimo/Alt-Season-Index)
 <img width="100%" alt="Alt Season Index Screenshot" src="https://github.com/user-attachments/assets/7f0d1c06-6485-4078-a43c-e84f641cc854" />
 
-### **Connect the Dots Activity** *Built in collaboration with two of my university colleagues* 🔗[Link](https://github.com/NicastroMassimo/ConnectTheDotsActivity)
+### **Connect the Dots Activity** 🔗[Link](https://github.com/NicastroMassimo/ConnectTheDotsActivity)
 <table>
   <tr>
-    <td><img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/4a7a29ec-5b2d-4f74-ac58-b1ddbea0c6de" /></td>
-    <td><img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/264a1611-8314-47f7-8475-b41e5385aa0b" /></td>
-    <td><img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/aa786d04-3376-4ca3-81dd-d545db5a7b8b" /></td>
+    <img width="2510" height="1252" alt="Screenshot From 2026-10-31 22-52-47" src="https://github.com/user-attachments/assets/8e2b4c65-28a0-4bbe-a95e-145441342eb3" />
+    <img width="1663" height="843" alt="Screenshot From 2026-10-31 22-47-01" src="https://github.com/user-attachments/assets/0766d353-8d87-4245-8d8e-5770cabecb2b" />
   </tr>
 </table>
 
-### **AI Movie Recommendation** 🔗[Link](https://github.com/NicastroMassimo/GiftGenie)
+### **Gift Genie** 🔗[Link](https://github.com/NicastroMassimo/GiftGenie)
 <table>
   <tr>
-    <td><img src="https://github.com/user-attachments/assets/20871f57-14b0-4c00-9f46-4555fa3bd349" width="100%" alt="Movie App 1"></td>
-    <td><img src="https://github.com/user-attachments/assets/b0155b48-506f-439b-8317-e193847f2a41" width="100%" alt="Movie App 2"></td>
+    <img width="2682" height="1612" alt="Screenshot From 2026-10-31 22-58-06" src="https://github.com/user-attachments/assets/31f3d160-1d6c-4a63-87a8-128d6f1fc4e0" />
+    <img width="2682" height="1612" alt="Screenshot From 2026-10-31 22-56-59" src="https://github.com/user-attachments/assets/7d35a845-6230-48ac-9e42-6e2189bc1be5" />
   </tr>
 </table>
 ---
