@@ -2,7 +2,7 @@ Hi, I’m Massimo! 👋
 
 My current CS interests are:
 - 📚 Full-Stack Development
-- ⚙️ Machine Learning Engineering
+- ⚙️ Machine Learning
 - 🧭 AI Safety and Alignment
 
 Whether working independently or collaborating in a team, I always strive to give my best and learn from every mistake and achievement.
